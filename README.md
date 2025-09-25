@@ -103,3 +103,17 @@ npm install --save @nestjs/jwt
 npm install --save @nestjs/passport passport passport-local
 
 npm install --save-dev @types/passport-local
+
+npm install --save @nestjs/jwt passport-jwt
+
+npm install --save-dev @types/passport-jwt
+
+npm install prisma --save-dev
+
+npm install prisma --save-dev
+
+npx prisma
+
+npx prisma init
+
+npm install @prisma/client
