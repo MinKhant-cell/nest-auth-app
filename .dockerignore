@@ -5,9 +5,8 @@ yarn.lock
 package-lock.json
 
 # Build output
-dist
 build
-.cache
+.caches
 
 # Local env files
 
